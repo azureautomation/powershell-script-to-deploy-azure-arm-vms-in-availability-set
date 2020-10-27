@@ -1,0 +1,20 @@
+{
+    "Author": "Sam Boutros",
+    "ContentSize": 15459,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-script-to-deploy-azure-arm-vms-in-availability-set/master/Deploy-AzureARMVM.ps1",
+    "DownloadCount": 1377,
+    "Id": "Powershell-script-to-2e95d2df",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 423,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-1-3T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Version 2 added 20 January 2017A few enhancements have been added in this version. Most notably, the ability to deploy Azure RM VMs in Availability Set. The script can work on existing or new VMs, on existing or new Availability Set. It can be used to added existing VMs to noew o",
+    "Title": "Powershell script to deploy Azure ARM VMs in Availability Set",
+    "UpdatedDate": "2017-1-20T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-script-to-deploy-azure-arm-vms-in-availability-set",
+    "UserTags": "Microsoft Azure, Powershell, High Availability"
+}
